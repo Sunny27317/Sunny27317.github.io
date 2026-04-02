@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/mac3/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3dbbd51b-f5bb-425c-bda8-1618b58781cc/ac6e9677-94b4-4a52-b594-fc51a74388dc/skills/docx/**)",
+      "Bash(python3 scripts/office/unpack.py \"/Users/mac3/Downloads/Sana_Ullah_Computer_Science_Intern \\(1\\).docx\" /tmp/resume_unpacked/)"
+    ]
+  }
+}
